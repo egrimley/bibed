@@ -1,0 +1,38 @@
+#!/usr/bin/perl
+
+use strict;
+
+my %kampo;
+my @kampoj;
+my %kampoj;
+
+while (<>) {
+    if (/^#/) {
+        next;
+    } elsif (/^$/) {
+        &eligi();
+    } elsif (/^(.): (.*)/) {
+        $kampo{$1} = $2;
+        if (!$kampoj{$1}) {
+            push(@kampoj, $1);
+            $kampoj{$1} = 1;
+        }
+    } else {
+        die;
+    }
+}
+&eligi();
+
+sub eligi {
+    my @t = keys(%kampo);
+    if ($#t == -1) {
+        return;
+    }
+    foreach my $i (0 .. $#kampoj) {
+        my $t .= $kampo{$kampoj[$i]};
+        $t =~ s/"/""/g;
+        print (($i == 0 ? '' : ',') . "\"$t\"");
+    }
+    print "\n";
+    %kampo = ();
+}

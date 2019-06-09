@@ -1,0 +1,99 @@
+#!/usr/bin/perl
+
+use strict;
+
+my $kampoj = '';
+my $n = -1;
+my $p = -1;
+my $marko = '';
+
+while (<>) {
+    die unless s/\n$//;
+    die if /\s$/;
+    if (/^$/) {
+        if ($n == -1 && $kampoj ne '') {
+            $n = 0;
+        }
+        $p = -1;
+        next;
+    }
+    if (/^#/) {
+        next;
+    }
+    die $_ unless /^(.): \S/;
+    if ($n == -1) {
+        die if index($kampoj, $1) != -1;
+        $kampoj .= $1;
+        next;
+    }
+    my $p1 = index($kampoj, $1);
+    die $_ unless $p < $p1;
+    if ($p == -1) {
+        die if $p1 != 0;
+        ++$n;
+    }
+    $p = $p1;
+    if (/^0/) {
+        die $_ unless /^0: ([0-9A-Z]+(\.[0-9A-Z]+)*)$/;
+        die "$marko >= $1" unless $marko lt $1;
+        $marko = $1;
+    } elsif (/^D/) {
+        die $_ unless /^D: \d{4}-\d{2}-\d{2}$/;
+    } elsif (/^I/) {
+        die $_ unless /^I: (\S+)( \([0-9X]+(-[0-9X]+)*\))?$/;
+        die $_ unless &isbn_valida($1);
+    }  elsif (/^J/) {
+        die $_ unless /^J: \d{4}\??$/;
+    }  elsif (/^K/) {
+        die $_ unless
+            /^K: (0|[A-Z]{3} (0|[1-9][0-9]*)(,[0-9]+)?)( \(brokante\))?$/;
+    }  elsif (/^M/) {
+        die $_ unless /^M: [1-9][0-9]* x [1-9][0-9]*$/;
+    }  elsif (/^P/) {
+        die $_ unless /^P: [1-9][0-9]*$/;
+    }
+}
+
+print "Kontrolite: $n registroj\n";
+exit;
+
+sub isbn_valida {
+    my ($isbn) = @_;
+    return 0 unless $isbn =~ /^[0-9X]+(-[0-9X]+)*$/;
+    $isbn =~ s/-//g;
+    return (&isbn10_valida($isbn) ||
+            ($isbn =~ /^97[89]/ && &ean13_valida($isbn)));
+}
+
+sub ean13_valida {
+    my ($a) = @_;
+    return 0 if $a !~ /^[0-9]{13}$/;
+    my $s = 0;
+    foreach my $i (0..12) {
+        $s += substr($a, $i, 1) * (1 + $i % 2 * 2);
+        $s %= 10;
+    }
+    return $s == 0;
+}
+
+sub isbn10_valida {
+    my ($a) = @_;
+    return 0 if $a !~ /^[0-9]{9}[0-9X]$/;
+    my $s = 0;
+    foreach my $i (0..8) {
+        $s += substr($a, $i, 1) * (10 - $i);
+        $s %= 11;
+    }
+    return substr($a, 9, 1) eq substr("0X987654321", $s, 1);
+}
+
+sub issn_valida {
+    my ($a) = @_;
+    return 0 if $a !~ /^[0-9]{7}[0-9X]$/;
+    my $s = 0;
+    foreach my $i (0..6) {
+        $s += substr($a, $i, 1) * (8 - $i);
+        $s %= 11;
+    }
+    return substr($a, 7, 1) eq substr("0X987654321", $s, 1);
+}
