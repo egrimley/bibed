@@ -1383,6 +1383,18 @@ I: 978-609-95087-4-0
 D: 2014-07-03
 F: Sezonoj (premio)
 
+0: O.LAG4.1
+T: Ŝia lasta poŝtkarto
+A: Serĝo Elgo
+J: 2002
+E: IEM
+I: 3-01-000029-4
+P: 200
+M: 150 x 229
+D: 2019-11-06
+F: EAB
+K: GBP 5
+
 0: O.LAG4.2
 T: La nokto de la ezoko
 A: Serĝo Elgo
@@ -1620,6 +1632,18 @@ D: 2007-07-20
 T: Mistera lumo
 A: Julian Modest
 J: 1987
+
+0: O.MON8.3
+T: La enigmo de l' ar@neo
+A: Abel Montagut
+J: 2003
+E: IEM
+I: 3-01-000030-8
+P: 279
+M: 150 x 229
+D: 2019-11-06
+F: EAB
+K: GBP 5
 
 0: O.MOY3.1
 T: Survoje al universala civilizacio
@@ -2094,9 +2118,22 @@ J: 1945
 T: La tago kiam Jesuo perfidis Judason
 A: Manuel de Seabra
 J: 2001
+E: IEM
 I: 3-901752-20-X
+P: 135
+M: 150 x 229
 D: 2019-09-22
 F: EAB
+
+0: O.SEA2.4
+T: Ĉu vi konas Blaise Cendrars?
+A: Manuel de Seabra
+J: 2007
+E: IEM
+I: 3-01-000033-2
+P: 87
+M: 150 x 229
+D: 2019-11-06
 
 0: O.SEK4.1
 T: Tempesto super Akonkagvo
@@ -2178,6 +2215,42 @@ J: 1999
 I: 3-901752-15-3
 F: FEL
 K: EUR 13,20
+
+0: O.STE4.441
+T: La fotoalbumo (unua volumo)
+A: Trevor Steele
+J: 2001
+E: IEM
+I: 3-901752-26-9
+P: 366
+M: 150 x 229
+D: 2019-11-06
+F: EAB
+K: GBP 5
+
+0: O.STE4.442
+T: La fotoalbumo (dua volumo)
+A: Trevor Steele
+J: 2005
+E: IEM
+I: 3-901752-26-9
+P: 165
+M: 150 x 229
+D: 2019-11-06
+F: EAB
+K: GBP 5
+
+0: O.STE4.46
+T: Kaj staros tre alte...
+A: Trevor Steele
+J: 2006
+E: IEM
+I: 3-01-000034-0
+P: 293
+M: 150 x 229
+D: 2019-11-06
+F: EAB
+K: GBP 5
 
 0: O.STI4.2
 T: Ombro sur interna pejzaĝo
@@ -3212,6 +3285,15 @@ A: Charles Dickens
 J: 1938
 X: Muusses Esperanto Biblioteko No. 17
 
+0: T.EN.D7.1
+T: La Krubalo
+A: Julia Donaldson
+J: 2019
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-39-7
+P: 32
+M: 217 x 271
+
 0: T.EN.D8.1
 T: La ĉashundo de la Baskerviloj
 A: Arthur Conan Doyle
@@ -3323,6 +3405,15 @@ J: 1935
 T: Mil naŭcent okdek kvar
 A: George Orwell
 J: 2012
+
+0: T.EN.P3.1
+T: Perlo
+A: Perla Poeto
+J: 2019
+E: Mondial
+I: 978-1-59569-395-2
+P: 145
+M: 126 x 204
 
 0: T.EN.P6.1
 T: Ses noveloj
