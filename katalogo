@@ -2662,6 +2662,12 @@ I: 978-1-59569-280-1
 F: amazon.co.uk
 K: GBP 4,80
 
+0: S.BA.234
+T: Beletra Almanako 34
+I: 978-1-59569-389-1
+F: amazon.co.uk
+K: GBP 6,66
+
 0: S.EPK.01
 T: Murdo en la Orienta Ekspreso
 A: Agatha Christie
@@ -3293,6 +3299,15 @@ E: Esperanto-Asocio de Britio
 I: 978-0-902756-39-7
 P: 32
 M: 217 x 271
+
+0: T.EN.D7.2
+T: Spaco sur la balail'
+A: Julia Donaldson
+J: 2020
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-34-2
+P: 32
+M: 280 x 250
 
 0: T.EN.D8.1
 T: La ĉashundo de la Baskerviloj
@@ -4633,6 +4648,12 @@ T: Mil unuaj vortoj
 J: 2004
 I: 0-902756-21-4
 M: 230 x 305
+
+0: V.3.34
+T: Mil unuaj vortoj
+J: 2020
+I: 978-0-902756-31-1
+M: 229 x 304
 
 0: V.4.1
 T: Leksikono de oficialaj vortoj
