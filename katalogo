@@ -740,11 +740,14 @@ J: 1964
 T: Rimleteroj
 A: Boulton; Auld
 J: 1976
+I: 0-9505323-0-4
+F: Postlasaĵo de Boulton
 
 0: O.AUL4.4
 T: Rimleteroj
 A: Boulton; Auld
 J: 1986
+I: 0-9505323-0-4
 
 0: O.AUL4.5
 T: En barko senpilota
@@ -913,6 +916,109 @@ J: 1970
 T: Entrepreno
 A: W. Bormann
 J: 1991
+
+0: O.BOU4.22
+T: Kontralte
+A: Marjorie Boulton
+J: 1955
+
+0: O.BOU4.242
+T: Cent ĝojkantoj
+A: Marjorie Boulton
+J: 1977
+F: Postlasaĵo de Boulton
+
+0: O.BOU4.26
+T: Eroj kaj aliaj poemoj
+A: Marjorie Boulton
+J: 1959
+
+0: O.BOU4.27
+T: Virino ĉe la landlimo
+A: Marjorie Boulton
+J: 1959
+F: Postlasaĵo de Boulton
+X: Aŭtora korekto sur paĝo 35 -7: profeti -> profiti
+
+0: O.BOU4.312
+T: Zamenhof - creator of Esperanto
+A: Marjorie Boulton
+J: 1980
+
+0: O.BOU4.32
+T: Zamenhof - aŭtoro de Esperanto
+A: Marjorie Boulton
+J: 1962
+D: 2009-06-19
+F: EAB (brokante)
+K: GBP 2
+
+0: O.BOU4.43
+T: Dekdu piedetoj
+A: Marjorie Boulton
+J: 1964
+F: Postlasaĵo de Boulton
+
+0: O.BOU4.561
+T: Ni aktoras...
+A: Marjorie Boulton
+J: 1971
+I: 87-85020-48-6
+F: Postlasaĵo de Boulton
+
+0: O.BOU4.562
+T: Ni aktoras...
+A: Marjorie Boulton
+J: 1973
+I: 87-85020-48-6
+F: Postlasaĵo de Boulton
+
+0: O.BOU4.62
+T: Poeto fajrakora
+A: Marjorie Boulton
+J: 1983
+F: Postlasaĵo de Boulton
+
+0: O.BOU4.631
+T: Faktoj kaj fantazioj
+A: Marjorie Boulton
+J: 1984
+I: 92-9017-028-X
+F: Postlasaĵo de Boulton
+
+0: O.BOU4.632
+T: Faktoj kaj fantazioj
+A: Marjorie Boulton
+J: 1993
+I: 92-9017-028-X
+F: Postlasaĵo de Boulton
+
+0: O.BOU4.64
+T: Ne nur leteroj de plum-amikoj
+A: Marjorie Boulton
+J: 1984
+I: 91-85288-06-3
+F: Postlasaĵo de Boulton
+
+0: O.BOU4.65
+T: Du el
+A: Marjorie Boulton; Poul Thorsen
+J: 1985
+I: 90-6336-033-9
+F: Postlasaĵo de Boulton
+
+0: O.BOU4.75
+T: La sekreta psiko
+A: Evo Sveti Vrag
+J: 2002?
+F: Postlasaĵo de Boulton
+
+0: O.BOU4.77
+T: Lumo, mallumo kaj kelkaj memoroj
+A: Marjorie Boulton
+J: 2005
+I: 92-9017-090-5
+F: Postlasaĵo de Boulton
 
 0: O.BRO4.1
 T: Oni ne pafas en Jamburg
