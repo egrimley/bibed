@@ -239,6 +239,7 @@ M: 207 x 291
 T: Syntactic tree structures
 A: Klaus Schubert
 J: 1986
+I: 90-70730-02-2
 M: 210 x 296
 
 0: E.2.28.89
@@ -767,6 +768,12 @@ K: GBP 6
 T: La fenomeno Esperanto
 A: William Auld
 J: 1988
+
+0: O.AUL4.7
+T: La skota lingvo hodiaŭ kaj hieraŭ
+A: William Auld
+J: 1988
+E: Kardo
 
 0: O.AUL4.8
 T: La skota lingvo hodiaŭ kaj hieraŭ
@@ -2406,6 +2413,12 @@ I: 90-71205-42-8
 D: 2011-10-28
 F: Monato (premio)
 
+0: O.SUT7.3
+T: Konciza historio pri la kornvala lingvo kaj ĝia literaturo
+A: Geoffrey H. Sutton
+J: 1969
+P: 16
+
 0: O.SZA6.1
 T: Vojaĝo al Kazohinio
 A: Sándor Szathmári
@@ -3425,6 +3438,15 @@ E: Esperanto-Asocio de Britio
 I: 978-0-902756-34-2
 P: 32
 M: 280 x 250
+
+0: T.EN.D7.3
+T: La plej eleganta giganto de la urbo
+A: Julia Donaldson
+J: 2021
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-40-3
+P: 32
+M: 223 x 279
 
 0: T.EN.D8.1
 T: La ĉashundo de la Baskerviloj
