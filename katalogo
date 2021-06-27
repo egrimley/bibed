@@ -602,6 +602,13 @@ J: 2006
 D: 2006-10-08
 F: Sezonoj (premio)
 
+0: O.2.13
+T: Ĉiuj steloj etas nokte
+J: 2021
+E: Mondial
+I: 978-1-59569-420-1
+F: aŭtora ekzemplero
+
 0: O.3.1
 T: Li kaj ni
 A: Reinhard Haupenthal
@@ -2798,6 +2805,11 @@ I: 978-1-59569-389-1
 F: amazon.co.uk
 K: GBP 6,66
 
+0: S.BA.240
+T: Beletra Almanako 40
+I: 978-1-59569-417-1
+F: aŭtora ekzemplero
+
 0: S.EPK.01
 T: Murdo en la Orienta Ekspreso
 A: Agatha Christie
@@ -2841,7 +2853,7 @@ J: 1946
 E: The Esperanto Publishing Co. Ltd. ("EPOKO" 8)
 
 0: S.EPK.09
-T: Brulanta sekreto
+T: Brulanta sekreto kaj aliaj rakontoj
 A: Stefan Zweig
 J: 1949
 E: The Esperanto Publishing Co. Ltd. ("EPOKO" 9)
@@ -2859,9 +2871,15 @@ J: 1952
 E: The Esperanto Publishing Co. Ltd. ("EPOKO" 11)
 
 0: S.IKU.2018
-T: Internacia kongresa universitato
+T: Internacia Kongresa Universitato
 J: 2018
 P: 222
+
+0: S.IKU.2020
+T: Internacia Kongresa Universitato
+J: 2020
+I: 978-5-7161-0314-6
+P: 102
 
 0: S.JL.X
 T: Jarlibro
