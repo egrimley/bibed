@@ -1063,6 +1063,13 @@ D: 2005-12-24
 F: EAB
 K: GBP 3,30
 
+0: O.BUD3.1
+T: Magia ludo
+A: Darija Budiša
+J: 2020
+I: 978-953-8182-05-1
+F: Belartaj Konkursoj
+
 0: O.BUL4.1
 T: Idoj de Orfeo
 A: Bulthuis
@@ -1757,6 +1764,13 @@ D: 2007-07-20
 T: Mistera lumo
 A: Julian Modest
 J: 1987
+
+0: O.MOD4.2
+T: La aventuroj de Jombor kaj Miki
+A: Julian Modest
+J: 2020
+I: 978-953-8182-04-4
+F: Belartaj Konkursoj
 
 0: O.MON8.3
 T: La enigmo de l' ar@neo
@@ -3153,6 +3167,20 @@ J: 1984
 T: Milito kontraŭ salamandroj
 A: Karel Čapek
 J: 1994
+
+0: T.CS.K7.1
+T: Kosmofabeloj por bona nokto
+A: Gabriela Kopcová
+J: 2020
+I: 978-80-88326-11-3
+F: Belartaj Konkursoj
+
+0: T.CS.V8.1
+T: Tri knaboj, Krepuskulino kaj Terurul
+A: Eva Vychodilová
+J: 2020
+I: 978-80-88326-06-9
+F: Belartaj Konkursoj
 
 0: T.DA.1
 T: ABZ de amo
