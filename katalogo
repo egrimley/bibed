@@ -93,6 +93,14 @@ D: 2008-08-01
 F: Mondial
 K: EUR 46,50
 
+0: E.1.5
+T: Historio de la esperanta literaturo
+A: Carlo Minnaja; Giorgio Silfer
+J: 2015
+I: 3-906595-21-8
+F: FEL
+K: EUR 51
+
 0: E.2.01
 T: Joseph Rhodes kaj la fruaj tagoj de Esperanto en Anglujo
 A: John Merchant
@@ -977,6 +985,14 @@ T: Dekdu piedetoj
 A: Marjorie Boulton
 J: 1964
 F: Postlasaĵo de Boulton
+
+0: O.BOU4.492
+T: Okuloj
+A: Marjorie Boulton
+J: 2021
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-42-7
+P: 181
 
 0: O.BOU4.561
 T: Ni aktoras...
@@ -2795,6 +2811,13 @@ D: 2013-08-02
 F: István Ertl dum REF
 K: EUR 9
 
+0: S.BA.218
+T: Beletra Almanako 18
+J: 2013
+I: 978-1-59569-269-6
+F: waterstones.com
+K: GBP 11,85
+
 0: S.BA.219
 T: Beletra Almanako 19
 I: 978-1-59569-277-1
@@ -2806,6 +2829,20 @@ T: Beletra Almanako 20
 I: 978-1-59569-280-1
 F: amazon.co.uk
 K: GBP 4,80
+
+0: S.BA.221
+T: Beletra Almanako 21
+J: 2014
+I: 978-1-59569-287-0
+F: waterstones.com
+K: GBP 11,85
+
+0: S.BA.222
+T: Beletra Almanako 22
+J: 2015
+I: 978-1-59569-293-1
+F: waterstones.com
+K: GBP 11,85
 
 0: S.BA.223
 T: Beletra Almanako 23
@@ -3432,6 +3469,13 @@ J: 2001
 D: 2007-08-10
 F: UEA dum UK
 K: JPY 1300
+
+0: T.EN.C7.1
+T: La rakontoj de Canterbury: Prologo
+A: Geoffrey Chaucer
+J: 1980
+E: Kardo
+P: 12
 
 0: T.EN.C8.1
 T: Lingvo kaj menso
