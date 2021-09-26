@@ -506,6 +506,11 @@ I: 978-0-902756-32-8
 D: 2010-05-12
 F: EAB
 
+0: L.3.14
+T: Enjoy Esperanto
+J: 2021
+I: 978-1-529-33379-4
+
 0: M.1
 T: Fundamenta Krestomatio de la lingvo Esperanto
 A: Zamenhof
@@ -3420,6 +3425,15 @@ T: Daily Mail Bild-libro pri bestoj
 J: 1961
 M: 262 x 333
 
+0: T.EN.A4.1
+T: Novulo en la urbo
+A: Marta Altés
+J: 2021
+I: 978-0-902756-44-1
+P: 32
+M: 231 x 287
+D: 2021-09-25
+
 0: T.EN.B1.1
 T: Ok noveloj
 A: Arnold Bennett
@@ -3629,6 +3643,15 @@ T: Spartako
 A: J. Leslie Mitchell
 J: 1993
 
+0: T.EN.M4.1
+T: Kanto de ĝojo
+A: Michael Morpurgo
+J: 2021
+I: 978-0-902756-46-5
+P: 32
+M: 241 x 307
+D: 2021-09-25
+
 0: T.EN.M5.1
 T: Boks kaj Koks
 A: John Maddison Morton
@@ -3724,6 +3747,15 @@ I: 88-7036-013-X
 T: La sindonema arbo
 A: Shel Silverstein
 J: 1991
+
+0: T.EN.S61.1
+T: La cent-etaĝa kosmoŝipo
+A: Mike Smith
+J: 2021
+I: 978-0-902756-45-8
+P: 28
+M: 221 x 277
+D: 2021-09-25
 
 0: T.EN.S71.1
 T: Fundamento de la kvakerismo
