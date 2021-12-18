@@ -2937,6 +2937,12 @@ J: 2020
 I: 978-5-7161-0314-6
 P: 102
 
+0: S.IKU.2021
+T: Internacia Kongresa Universitato
+J: 2021
+P: 133
+X: Du eraraj ISBN-oj estas indikitaj!
+
 0: S.JL.X
 T: Jarlibro
 E: UEA
@@ -3484,6 +3490,15 @@ D: 2007-08-10
 F: UEA dum UK
 K: JPY 1300
 
+0: T.EN.C6.1
+T: Pingvena pako
+A: Victoria Cassanell
+J: 2021
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-49-6
+P: 28
+M: 230 x 288
+
 0: T.EN.C7.1
 T: La rakontoj de Canterbury: Prologo
 A: Geoffrey Chaucer
@@ -3629,6 +3644,15 @@ D: 2010-03-18
 F: Geoffrey King
 K: GBP 0,25
 
+0: T.EN.M1.1
+T: Ekster la kuniklejo
+A: Jessica Meserve
+J: 2021
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-47-2
+P: 36
+M: 261 x 277
+
 0: T.EN.M2.1
 T: Winnie-la-Pu
 A: A. A. Milne
@@ -3637,6 +3661,15 @@ I: 92-9017-046-8
 D: 2009-06-19
 F: EAB (brokante)
 K: GBP 2
+
+0: T.EN.M2.2
+T: La domo ĉe Pu-Angulo
+A: A. A. Milne
+J: 2021
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-41-0
+P: 185
+M: 150 x 219
 
 0: T.EN.M3.1
 T: Spartako
@@ -4118,6 +4151,13 @@ J: 2007
 D: 2008-05-22
 F: Sezonoj (premio)
 
+0: T.FR.V3.1
+T: Vojaĝo al la centro de la tero
+A: Jules Verne
+J: 2021
+I: 978-1-257-16166-9
+F: Monato (por recenzo)
+
 0: T.HE.K4.1
 T: Elektitaj satiroj
 A: Efraim Kiŝon
@@ -4402,6 +4442,13 @@ I: 978-83-63470-10-4
 M: 210 x 300
 F: Belartaj Konkursoj
 X: ankaŭ de UEA (por recenzo)
+
+0: T.PL.L3.1
+T: Solaris
+A: Stansław Lem
+J: 2021
+I: 978-83-962222-0-6
+F: Monato (por recenzo)
 
 0: T.PL.M6.1
 T: Sinjoro Tadeo
