@@ -3482,6 +3482,15 @@ T: Alico en Mirlando
 A: Lewis Carroll
 J: 2004
 
+0: T.EN.C5.13
+T: La aventuroj de Alico en Mirlando
+A: Lewis Carroll
+J: 2022
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-48-9
+P: 304
+M: 198 x 252
+
 0: T.EN.C5.2
 T: Trans la spegulo kaj kion Alico trovis tie
 A: Lewis Carroll
@@ -3532,7 +3541,8 @@ D: 2010-11-10
 
 0: T.EN.D5.1
 T: La batalo de l' vivo; Ŝakproblemoj
-A: Dickens
+A: Charles Dickens; Jozefo Paluzíe Lucena
+X: Kunbinditaj: «La batalo de l' vivo» (1910), 88 paĝoj; «Ŝakproblemoj» (1909), 136 paĝoj
 
 0: T.EN.D5.2
 T: El la londona skizlibro
@@ -3834,6 +3844,15 @@ J: 1996
 T: La kunularo de l' ringo
 A: Tolkien
 J: 1995
+
+0: T.EN.T9.1
+T: Ni ĉiuj estas malsamaj
+A: Tracey Turner
+J: 2022
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-50-2
+P: 48
+M: 243 x 288
 
 0: T.EN.W2.1
 T: Palaco de danĝero
