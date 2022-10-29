@@ -2802,18 +2802,21 @@ K: EUR 9,90
 
 0: S.BA.214
 T: Beletra Almanako 14
+J: 2012
 I: 978-1-59569-250-4
 F: amazon.co.uk
 K: GBP 4,65
 
 0: S.BA.215
 T: Beletra Almanako 15
+J: 2012
 I: 978-1-59569-253-5
 F: amazon.co.uk
 K: GBP 4,51
 
 0: S.BA.216
 T: Beletra Almanako 16
+J: 2013
 I: 978-1-59569-258-0
 F: amazon.co.uk
 K: GBP 4,59
@@ -2835,12 +2838,14 @@ K: GBP 11,85
 
 0: S.BA.219
 T: Beletra Almanako 19
+J: 2014
 I: 978-1-59569-277-1
 F: amazon.co.uk
 K: GBP 8,37
 
 0: S.BA.220
 T: Beletra Almanako 20
+J: 2014
 I: 978-1-59569-280-1
 F: amazon.co.uk
 K: GBP 4,80
@@ -2861,20 +2866,95 @@ K: GBP 11,85
 
 0: S.BA.223
 T: Beletra Almanako 23
+J: 2015
 I: 978-1-59569-302-0
 F: amazon.co.uk
 K: GBP 6,70
 
+0: S.BA.224
+T: Beletra Almanako 24
+J: 2015
+I: 978-1-59569-310-5
+M: 140 x 217
+D: 2022-10-28
+F: UEA
+
 0: S.BA.234
 T: Beletra Almanako 34
+J: 2019
 I: 978-1-59569-389-1
 F: amazon.co.uk
 K: GBP 6,66
 
+0: S.BA.235
+T: Beletra Almanako 35
+J: 2019
+I: 978-1-59569-392-1
+M: 140 x 217
+D: 2022-10-28
+F: UEA
+
+0: S.BA.236
+T: Beletra Almanako 36
+J: 2019
+I: 978-1-59569-396-9
+M: 140 x 217
+D: 2022-10-28
+F: UEA
+
+0: S.BA.237
+T: Beletra Almanako 37
+J: 2020
+I: 978-1-59569-400-3
+M: 140 x 217
+D: 2022-10-28
+F: UEA
+
+0: S.BA.238
+T: Beletra Almanako 38
+J: 2020
+I: 978-1-59569-408-9
+M: 140 x 217
+D: 2022-10-28
+F: UEA
+
+0: S.BA.239
+T: Beletra Almanako 39
+J: 2020
+I: 978-1-59569-414-0
+M: 140 x 217
+D: 2022-10-28
+F: UEA
+
 0: S.BA.240
 T: Beletra Almanako 40
+J: 2021
 I: 978-1-59569-417-1
 F: aŭtora ekzemplero
+
+0: S.BA.241
+T: Beletra Almanako 41
+J: 2021
+I: 978-1-59569-421-8
+M: 140 x 217
+D: 2022-10-28
+F: UEA
+
+0: S.BA.242
+T: Beletra Almanako 42
+J: 2021
+I: 978-1-59569-430-0
+M: 140 x 217
+D: 2022-10-28
+F: UEA
+
+0: S.BA.243
+T: Beletra Almanako 43
+J: 2022
+I: 978-1-59569-436-2
+M: 140 x 217
+D: 2022-10-28
+F: UEA
 
 0: S.EPK.01
 T: Murdo en la Orienta Ekspreso
@@ -4685,10 +4765,23 @@ T: Ĉernobil
 A: Jurij Ŝĉerbak
 J: 1990
 
-0: T.RU.S7.1
+0: T.RU.S7.11
 T: Malfacilas esti dio
 A: Strugackij; Strugackij
 J: 1992
+I: 5-7312-0019-X
+P: 168
+M: 125 x 200
+
+0: T.RU.S7.12
+T: Pikniko ĉe vojrando
+A: Strugackij; Strugackij
+J: 1996
+I: 5-7161-0027-9
+P: 191
+M: 131 x 201
+D: 2022-10-28
+F: UEA
 
 0: T.RU.T6.1
 T: La morto de Ivan Iljiĉ
