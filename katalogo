@@ -1060,6 +1060,22 @@ J: 2005
 I: 92-9017-090-5
 F: Postlasaĵo de Boulton
 
+0: O.BOU4.811
+T: Unu animo homa
+A: Marjorie Boulton
+J: 2022
+I: 978-0-902756-55-7
+D: 2022-10-31
+X: Volumo 1
+
+0: O.BOU4.812
+T: Unu animo homa
+A: Marjorie Boulton
+J: 2022
+I: 978-0-902756-55-7
+D: 2022-10-31
+X: Volumo 2
+
 0: O.BRO4.1
 T: Oni ne pafas en Jamburg
 A: Mikaelo Bronŝtejn
@@ -2056,6 +2072,14 @@ T: Vere aŭ fantazie
 A: Claude Piron
 J: 1989
 
+0: O.PIR4.451
+T: La dorsosako de panjo Rut'
+A: Sándor J. Bakó; Claude Piron
+J: 1995
+I: 3-85182-032-0
+D: 2022-11-18
+F: EAB
+
 0: O.PIR4.461
 T: La kisa malsano
 A: Claude Piron
@@ -2063,7 +2087,7 @@ J: 1991
 
 0: O.PIR4.462
 T: La kisa malsano
-A: Sándor J. Bako; Claude Piron
+A: Sándor J. Bakó; Claude Piron
 J: 2000
 I: 3-901752-17-X
 D: 2019-09-22
@@ -2071,7 +2095,7 @@ F: EAB
 
 0: O.PIR4.47
 T: La meteoro
-A: Sándor J. Bako; Claude Piron
+A: Sándor J. Bakó; Claude Piron
 J: 2002
 I: 3-01-000031-6
 D: 2019-09-22
@@ -3521,6 +3545,13 @@ T: Daily Mail Bild-libro pri bestoj
 J: 1961
 M: 262 x 333
 
+0: T.EN.A1.1
+T: Platlando
+A: Edwin Abbott Abbott
+J: 2022
+I: 978-1-4716-5385-8
+F: Monato (por recenzo)
+
 0: T.EN.A4.1
 T: Novulo en la urbo
 A: Marta Altés
@@ -3566,6 +3597,16 @@ A: James Branch Cabell
 J: 2001
 F: FEL
 K: EUR 18,00
+
+0: T.EN.C4.1
+T: Kara bestoĝardeno
+A: Rod Campbell
+J: 2023
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-57-1
+P: 16
+M: 160 x 161
+D: 2022-11-18
 
 0: T.EN.C5.1
 T: Alico en Mirlando
@@ -3708,6 +3749,16 @@ J: 1984
 T: Tatterley: La historio de mortinto
 A: Tom Gallon
 J: 1912
+
+0: T.EN.G8.1
+T: Tro da aĵoj
+A: Emily Gravett
+J: 2023
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-61-8
+P: 32
+M: 231 x 267
+D: 2022-11-18
 
 0: T.EN.H2.1
 T: La kurioza incidento de la hundo en la nokto
