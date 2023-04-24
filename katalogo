@@ -998,6 +998,7 @@ J: 2021
 E: Esperanto-Asocio de Britio
 I: 978-0-902756-42-7
 P: 181
+M: 129 x 198
 
 0: O.BOU4.561
 T: Ni aktoras...
@@ -3709,6 +3710,16 @@ I: 978-90-9027666-3
 D: 2013-07-25
 K: 0
 
+0: T.EN.C83.1
+T: La murdo de Roger Ackroyd
+A: Agatha Christie
+J: 2023
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-68-7
+P: 296
+M: 129 x 198
+D: 2023-04-23
+
 0: T.EN.C9.1
 T: Lunkato kaj mi
 A: Lydia Corry
@@ -3736,6 +3747,26 @@ T: El la londona skizlibro
 A: Charles Dickens
 J: 1938
 X: Muusses Esperanto Biblioteko No. 17
+
+0: T.EN.D6.1
+T: Malgranda frato
+A: Cory Doctorow
+J: 2023
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-66-3
+P: 382
+M: 129 x 198
+D: 2023-04-23
+
+0: T.EN.D6.2
+T: Malgranda sibo
+A: Cory Doctorow
+J: 2023
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-67-0
+P: 386
+M: 129 x 198
+D: 2023-04-23
 
 0: T.EN.D7.1
 T: La Krubalo
@@ -4966,6 +4997,16 @@ I: 978-0-902756-56-4
 P: 154
 M: 120 x 190
 D: 2022-10-07
+
+0: T.SV.J3.12
+T: Ĉapelo de sorĉisto
+A: Tove Jansson
+J: 2023
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-65-6
+P: 142
+M: 120 x 190
+D: 2023-04-23
 
 0: T.SV.L2.1
 T: Gösta Berling
