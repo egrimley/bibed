@@ -4089,6 +4089,16 @@ T: La sindonema arbo
 A: Shel Silverstein
 J: 1991
 
+0: T.EN.S43.11
+T: Petrolo! Unua parto
+A: Upton Sinclair
+J: 1936
+
+0: T.EN.S43.12
+T: Petrolo! Dua parto
+A: Upton Sinclair
+J: 1936
+
 0: T.EN.S61.1
 T: La cent-etaĝa kosmoŝipo
 A: Mike Smith
@@ -4535,6 +4545,13 @@ T: La tragedio de l' homo
 A: Imre Madách
 J: 1965
 
+0: T.HU.M3.1
+T: La malbela knabino
+A: Veronika Marék
+J: 2022
+I: 978-615-01-6467-0
+F: Belartaj Konkursoj
+
 0: T.HU.S8.1
 T: Szerelmi kultúránk
 A: Szilágyi Vilmos
@@ -4738,6 +4755,12 @@ J: 1967
 0: T.PL.3
 T: Nikolao Kpernik Torunano
 J: 1994
+
+0: T.PL.4
+T: Legendoj de ses kontinentoj
+J: 2022
+I: 978-83-954307-4-9
+F: Belartaj Konkursoj
 
 0: T.PL.K5.1
 T: Perdiĝis la kobajo
