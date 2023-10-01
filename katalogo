@@ -2076,7 +2076,7 @@ E: Fonto
 T: Gerda malaperis!
 A: Claude Piron
 J: 2023
-E: EAB
+E: Esperanto-Asocio de Britio
 P: 44
 M: 149 x 210
 D: 2023-04-20
@@ -2134,6 +2134,17 @@ A: Sándor J. Bakó; Claude Piron
 J: 2002
 I: 3-01-000031-6
 D: 2019-09-22
+F: EAB
+
+0: O.PIR4.51
+T: Gerda kaj Elza
+A: Claude Piron
+J: 2023
+E: Esperanto-Asocio de Britio
+I: 978-0-906632-08-6
+P: 257
+M: 129 x 198
+D: 2023-09-06
 F: EAB
 
 0: O.POL4.1
@@ -4048,6 +4059,17 @@ P: 28
 M: 256 x 257
 D: 2023-02-05
 
+0: T.EN.R7.1
+T: Doktoro Esperanto kaj la lingvo de espero
+A: Mara Rockliff
+J: 2023
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-62-5
+P: 40
+M: 237 x 276
+D: 2023-09-06
+F: EAB
+
 0: T.EN.S2.1
 T: Bela Joe
 A: Marshall Saunders
@@ -4097,6 +4119,17 @@ T: La sonetoj
 A: Shakespeare
 J: 1981
 I: 88-7036-013-X
+
+0: T.EN.S3.46
+T: Koriolano
+A: Shakespeare; Boulton; Tonkin
+J: 2023
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-69-4
+P: 217
+M: 130 x 180
+D: 2023-09-06
+F: EAB
 
 0: T.EN.S4.1
 T: La sindonema arbo
