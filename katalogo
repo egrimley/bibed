@@ -775,6 +775,29 @@ A: Boulton; Auld
 J: 1986
 I: 0-9505323-0-4
 
+0: O.AUL4.41
+T: Rimleteroj
+A: Boulton; Auld
+J: 2024
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-71-7
+P: 129
+M: 103 x 155
+D: 2024-05-01
+F: EAB
+
+0: O.AUL4.42
+T: Rimleteroj
+A: Boulton; Auld
+J: 2024
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-74-8
+P: 141
+M: 127 x 203
+D: 2024-05-04
+F: EAB
+X: Speciala jubilea reeldono
+
 0: O.AUL4.5
 T: En barko senpilota
 A: William Auld
@@ -928,6 +951,17 @@ T: BASIC: La programad-lingvo
 A: Christian Bertin
 J: 1984
 M: 210 x 297
+
+0: O.BIC6.1
+T: Tamen kantas fido
+A: Clarence Bicknell
+J: 2023
+E: Itala Esperanto-Federacio
+I: 978-88-96582-31-2
+P: 218
+M: 148 x 211
+D: 2024-05-07
+F: Humphrey Tonkin
 
 0: O.BOA4.1
 T: La nekonata konato
@@ -1151,6 +1185,16 @@ I: 978-953-58418-6-9
 D: 2018-05-30
 F: Belartaj Konkursoj
 
+0: O.CAR6.1
+T: Yvonne: Sonetoj malsekretaj
+A: Timothy Brian Carr
+J: 2009
+E: Eldonejo Bero
+P: 251
+M: 175 x 175
+D: 2024-05-05
+F: Premio de Slaloma Konkurso dum Brita Kongreso
+
 0: O.CHE4.1
 T: Vortkonsisto vortfarado vortanalizo vortordo
 A: André Cherpillod
@@ -1316,6 +1360,17 @@ D: 2009-06-19
 F: EAB (brokante)
 K: GBP 5
 
+0: O.FRA4.21
+T: La granda kaldrono
+A: John Francis
+J: 2024
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-73-1
+P: 626
+M: 127 x 198
+D: 2024-05-01
+F: EAB
+
 0: O.FRA4.3
 T: Misio sen alveno
 A: John Francis
@@ -1338,6 +1393,18 @@ J: 1978
 T: La kosmo kaj ni
 A: David Galadí-Enríquez; Amri Wandel
 J: 2001
+
+0: O.GAR3.1
+T: Kapturnoj
+A: Higinio García
+J: 1999
+E: FEL
+I: 90-71205-82-7
+P: 159
+M: 135 x 209
+D: 2024-05-04
+F: FEL
+K: EUR 16
 
 0: O.GAT4.1
 T: La septaga murdenigmo
@@ -2081,6 +2148,7 @@ P: 44
 M: 149 x 210
 D: 2023-04-20
 F: EAB
+X: Sen ISBN!
 
 0: O.PIR4.421
 T: Lasu min paroli plu
@@ -3755,6 +3823,17 @@ P: 32
 M: 225 x 279
 D: 2022-10-07
 
+0: T.EN.D1.1
+T: Matilda
+A: Roald Dahl
+J: 2024
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-72-4
+P: 249
+M: 128 x 199
+D: 2024-05-04
+F: EAB
+
 0: T.EN.D2.1
 T: La Origino de Specioj
 A: Karolo Darvin
@@ -4403,6 +4482,18 @@ D: 2007-08-09
 F: UEA dum UK
 K: JPY 1250
 
+0: T.FR.C5.1
+T: Vojaĝo ĝis noktofino
+A: Louis-Ferdinand Céline
+J: 2005
+E: Mondial
+I: 1-59569-022-0
+P: 370
+M: 140 x 216
+D: 2024-05-04
+F: FEL
+K: EUR 24,90
+
 0: T.FR.D2.1
 T: La maljunulino kiu paŝis en la maro
 A: San-Antonio (Frédéric Dard)
@@ -4650,6 +4741,17 @@ A: Giacomo Leopardi
 J: 2012
 I: 978-88-89132-56-2
 K: 0
+
+0: T.IT.P3.1
+T: La bela somero
+A: Cesare Pavese
+J: 2023
+E: Itala Esperanto-Federacio
+I: 978-88-96582-30-5
+P: 83
+M: 170 x 240
+D: 2024-03-31
+F: Monato (por recenzo)
 
 0: T.JA.3
 T: Postmilita Japana Antologio
@@ -5077,6 +5179,17 @@ I: 978-0-902756-65-6
 P: 142
 M: 120 x 190
 D: 2023-04-23
+
+0: T.SV.J3.13
+T: Memoroj de Muminpatro
+A: Tove Jansson
+J: 2023
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-70-0
+P: 164
+M: 120 x 190
+D: 2024-05-01
+F: EAB
 
 0: T.SV.L2.1
 T: Gösta Berling
