@@ -466,6 +466,17 @@ A: William Auld
 J: 2004
 I: 0-902756-23-0
 
+0: L.3.071
+T: Traduku!
+A: William Auld
+J: 2024
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-81-6
+P: 254
+M: 128 x 179
+D: 2025-02-13
+F: EAB
+
 0: L.3.08
 T: Jen nia mondo 1
 J: 1992
@@ -3906,6 +3917,17 @@ J: 2010
 D: 2010-08-25
 F: Sezonoj (por recenzo)
 
+0: T.EN.D8.13
+T: La ĉashundo de la Baskerviloj
+A: Arthur Conan Doyle
+J: 2024
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-80-9
+P: 224
+M: 129 x 198
+D: 2025-02-13
+F: EAB
+
 0: T.EN.D8.2
 T: La aventuroj de Ŝerloko Holmso
 A: Arthur Conan Doyle
@@ -4063,6 +4085,17 @@ T: Romano de San Michele
 A: Axel Munthe
 J: 1935
 
+0: T.EN.N4.1
+T: La edzino de l’ tempvojaĝanto
+A: Audrey Niffenegger
+J: 2024
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-79-3
+P: 653
+M: 126 x 198
+D: 2025-02-13
+F: EAB
+
 0: T.EN.O6.1
 T: Mil naŭcent okdek kvar
 A: George Orwell
@@ -4117,6 +4150,18 @@ I: 978-0-902756-52-6
 P: 32
 M: 257 x 287
 D: 2022-10-07
+
+0: T.EN.R3.2
+T: Toto la pinta hundo
+A: Catherine Rayner
+J: 2025
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-84-7
+P: 32
+M: 255 x 286
+D: 2025-02-13
+F: EAB
+X: Malĝusta ISBN presita sur ĝi: 978-0-902756-79-3
 
 0: T.EN.R5.1
 T: La plej eta elefanto
@@ -5211,6 +5256,28 @@ I: 978-0-902756-76-2
 P: 164
 M: 120 x 190
 D: 2024-07-18
+F: EAB
+
+0: T.SV.J3.16
+T: La patro kaj la maro
+A: Tove Jansson
+J: 2024
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-77-9
+P: 206
+M: 120 x 190
+D: 2025-02-13
+F: EAB
+
+0: T.SV.J3.17
+T: Malfrue novembre
+A: Tove Jansson
+J: 2024
+E: Esperanto-Asocio de Britio
+I: 978-0-902756-78-6
+P: 166
+M: 120 x 190
+D: 2025-02-13
 F: EAB
 
 0: T.SV.L2.1
